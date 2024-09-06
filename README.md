@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### 📋 Frond-end
+### 📋 Front-end
 
 <p align="left"> 
   <a href="https://skillicons.dev">
