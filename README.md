@@ -9,7 +9,7 @@
 <h2>Sobre mi 😃</h2>
 
 <div align="left"><br>
-  <p>👋 ¡Hola! Soy Jhon Alexander, estudiante de Ingeniería en Sistemas e informatica apasionado por el desarrollo web. Actualmente, estoy aprendiendo y mejorando mis habilidades en tecnologías como HTML, CSS, y JavaScript. Me encanta resolver problemas y construir interfaces intuitivas. ¡Estoy emocionado por todo lo que puedo crear y aprender en este camino!</p>
+  <p>👋 ¡Hola! Soy Jhon, estudiante de Ingeniería en Sistemas e informatica apasionado por el desarrollo web. Actualmente, estoy aprendiendo y mejorando mis habilidades en tecnologías como HTML, CSS, y JavaScript. Me encanta resolver problemas y construir interfaces intuitivas. ¡Estoy emocionado por todo lo que puedo crear y aprender en este camino!</p>
 </div>
 
 
