@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Jhon / BLJhonDev ✨ </h1> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
+  </a>
+</p>
+<br>
 
-<!--
-**BLJhonDev/BLJhonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mi 😃</h2>
 
-Here are some ideas to get you started:
+<div align="left"><br>
+  <p>👋 ¡Hola! Soy Jhon Alexander, estudiante de Ingeniería en Sistemas e informatica apasionado por el desarrollo web. Actualmente, estoy aprendiendo y mejorando mis habilidades en tecnologías como HTML, CSS, y JavaScript. Me encanta resolver problemas y construir interfaces intuitivas. ¡Estoy emocionado por todo lo que puedo crear y aprender en este camino!</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Habilidades</h2>
+
+### 📋 Lenguaje de programación 
+
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+</p>
+
+### 📋 Frond-end
+
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+
+
+
+ 
