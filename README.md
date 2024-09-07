@@ -1,7 +1,10 @@
 Hola 👋  soy Jhon / BLJhonDev ✨ </h1> 
 <p align="left">
   <a href="https://www.linkedin.com/in/jhon-bola%C3%B1os-lopez-24b0762a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="jsjhonlopez@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 <br>
