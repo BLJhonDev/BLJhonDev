@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/697838f9-f677-4e84-90de-a2e4e4036ace)<h1 align="center">Hola 👋  soy Jhon / BLJhonDev ✨ </h1> 
+Hola 👋  soy Jhon / BLJhonDev ✨ </h1> 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin,github,gmail" />
@@ -18,7 +18,7 @@
 ### 📋 Lenguaje de programación 
 
 <p align="left"> 
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/jhon-bola%C3%B1os-lopez-24b0762a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="https://www.linkedin.com/in/jhon-bola%C3%B1os-lopez-24b0762a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
